@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Paddock.Infrastructure/Paddock.Infrastructure.csproj" />
+  <Project Path="../Paddock.Models/Paddock.Domain.csproj" />
+  <Project Path="PaddockApi.csproj" />
+</Solution>
